@@ -1,3 +1,5 @@
+Software to calculate whether it is profitable to buy a stock before ex-div payout
+
 Author: Vladimir Slav
 
 This is free and unencumbered software released into the public domain.
